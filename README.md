@@ -4,7 +4,9 @@ A small power-systems tool that checks whether a generator is required to
 **ride through** a grid voltage dip, according to a grid code's
 **Low Voltage Ride-Through (LVRT)** requirement.
 
-**Author:** Devanshu Shrivastava — MEng in Energy Systems, Rutgers University, New Brunswick, NJ
+**Author:** Devanshu Shrivastava
+MEng Energy Systems
+Rutgers University, New Brunswick, NJ
 **Date:** June 9, 2026
 
 ## Background
